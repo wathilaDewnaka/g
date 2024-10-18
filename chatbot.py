@@ -9,7 +9,7 @@ import requests
 
 from flask import Flask, request, jsonify
 from nltk.stem import WordNetLemmatizer
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 
 # Initialize Flask app
 app = Flask(__name__)
