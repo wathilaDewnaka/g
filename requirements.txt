@@ -38,7 +38,7 @@ setuptools==75.2.0
 six==1.16.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
-tensorflow-cpu
+tflite-runtime
 termcolor==2.5.0
 tqdm==4.66.5
 typing_extensions==4.12.2
